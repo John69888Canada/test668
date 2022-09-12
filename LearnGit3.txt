@@ -1,0 +1,11 @@
+This is to test GIt, to learn how Git works
+
+
+////////////////////////////
+
+THis is test git 2 file
+
+
+////////////////////////////
+
+THis is test git 3 file

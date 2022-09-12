@@ -1,0 +1,1 @@
+This is to test GIt, to learn how Git works
